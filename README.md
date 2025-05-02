@@ -7,3 +7,9 @@
 
 - build it to be able to accept multiple instrument types from excel
 
+##achievements
+
+babys first curve
+
+![alt text](image.png)
+
